@@ -1,0 +1,8 @@
+﻿fastapi
+uvicorn[standard]
+pydantic
+spacy
+nltk
+gensim
+scikit-learn
+python-dotenv

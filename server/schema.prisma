@@ -1,0 +1,19 @@
+// Prisma schema
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = "file:./dev.db"
+}
+
+model Message {
+  id        Int      @id @default(autoincrement())
+  sessionId String
+  role      String
+  text      String
+  analysis  String?
+  createdAt DateTime @default(now())
+}

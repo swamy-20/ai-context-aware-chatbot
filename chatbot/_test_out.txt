@@ -1,0 +1,52 @@
+Q: how to learn machine learning
+Intent: ai | Score: 1.00
+A: Some exciting AI developments include: GPT-4 for text generation, DALL-E for image creation, AlphaFold for protein structure prediction, and autonomous driving systems. Which area fascinates you?
+
+Q: best interview tips
+Intent: interview | Score: 1.00
+A: Top interview tips: 1) Research the company thoroughly, 2) Practice STAR method for behavioral questions (Situation, Task, Action, Result), 3) Prepare 3-5 thoughtful questions to ask, 4) Follow up with a thank-you email within 24 hours. What type of interview are you preparing for?
+
+Q: I feel sad today
+Intent: emotions | Score: 1.00
+A: Emotional wellness tips: acknowledge your feelings without judgment, practice mindfulness, maintain social connections, set healthy boundaries, engage in hobbies you enjoy, and don't hesitate to seek professional help if needed. I'm here to listen!
+
+Q: how to sleep better
+Intent: sleep | Score: 1.00
+A: If you can't fall asleep: try the 4-7-8 breathing technique (inhale 4 sec, hold 7 sec, exhale 8 sec), progressive muscle relaxation, or a boring audiobook. Avoid lying in bed awake for more than 20 minutes. Need more tips?
+
+Q: what is artificial intelligence
+Intent: ai | Score: 1.00
+A: AI is revolutionizing industries from healthcare (medical imaging diagnosis) to finance (fraud detection) to transportation (self-driving cars). The key branches are: supervised learning, unsupervised learning, and reinforcement learning. What would you like to explore?
+
+Q: recommend some good books
+Intent: books | Score: 1.00
+A: Must-read books by category: Fiction — '1984', 'To Kill a Mockingbird'. Self-help — 'Atomic Habits', 'Deep Work'. Tech — 'Clean Code', 'Designing Data-Intensive Applications'. Business — 'Zero to One', 'The Lean Startup'. What genre interests you?
+
+Q: best deals on phones
+Intent: shopping | Score: 0.77
+A: Great question! For the best deals, try comparing prices on platforms like Amazon, Flipkart, or use a price-tracking tool like CamelCamelCamel. What are you looking to buy?
+
+Q: how to stay safe online
+Intent: security | Score: 1.00
+A: Data privacy matters: review app permissions regularly, use encrypted messaging apps, be mindful of what you share on social media, and read privacy policies. Want specific security advice?
+
+Q: hello
+Intent: greeting | Score: 1.00
+A: Hi! I'm your AI assistant — ask me anything!
+
+Q: goodbye
+Intent: farewell | Score: 1.00
+A: Goodbye! It was great chatting with you. Take care! 👋
+
+Q: how to lose weight
+Intent: fitness | Score: 1.00
+A: Key fitness tips: 1) Warm up before every workout, 2) Focus on form over weight, 3) Progressive overload is key for growth, 4) Sleep 7-9 hours for recovery, 5) Stay hydrated. Need a workout plan?
+
+Q: what is python programming
+Intent: coding | Score: 1.00
+A: For learning to code, I recommend: 1) Start with Python (beginner-friendly), 2) Build small projects, 3) Practice on LeetCode/HackerRank, 4) Read other people's code on GitHub. What's your current level?
+
+Q: tips for resume writing
+Intent: resume | Score: 1.00
+A: Resume tips: 1) Keep it to 1-2 pages, 2) Use action verbs ('Led', 'Built', 'Increased'), 3) Quantify achievements ('Increased sales by 25%'), 4) Tailor it for each job application, 5) Use a clean, ATS-friendly format. Need specific help?
+

@@ -1,0 +1,43 @@
+Total bot rows: 25000
+Unique bot messages: 6
+
+Top 20 most common bot responses:
+  [22771x] Sure, let me help you with that!
+  [492x] Goodbye! Have a great day!
+  [446x] Hello! How can I assist you?
+  [443x] Let's learn something new!
+  [441x] Believe in yourself!
+  [407x] The weather looks nice today!
+
+
+Sample of UNIQUE (non-generic) bot messages:
+  intent=weather: The weather looks nice today!
+  intent=motivation: Believe in yourself!
+  intent=education: Let's learn something new!
+  intent=motivation: Believe in yourself!
+  intent=farewell: Goodbye! Have a great day!
+  intent=education: Let's learn something new!
+  intent=education: Let's learn something new!
+  intent=weather: The weather looks nice today!
+  intent=farewell: Goodbye! Have a great day!
+  intent=motivation: Believe in yourself!
+  intent=farewell: Goodbye! Have a great day!
+  intent=farewell: Goodbye! Have a great day!
+  intent=education: Let's learn something new!
+  intent=weather: The weather looks nice today!
+  intent=farewell: Goodbye! Have a great day!
+  intent=weather: The weather looks nice today!
+  intent=farewell: Goodbye! Have a great day!
+  intent=motivation: Believe in yourself!
+  intent=education: Let's learn something new!
+  intent=motivation: Believe in yourself!
+  intent=motivation: Believe in yourself!
+  intent=weather: The weather looks nice today!
+  intent=farewell: Goodbye! Have a great day!
+  intent=farewell: Goodbye! Have a great day!
+  intent=motivation: Believe in yourself!
+  intent=farewell: Goodbye! Have a great day!
+  intent=motivation: Believe in yourself!
+  intent=motivation: Believe in yourself!
+  intent=weather: The weather looks nice today!
+  intent=motivation: Believe in yourself!
