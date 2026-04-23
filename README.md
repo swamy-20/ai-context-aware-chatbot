@@ -40,6 +40,7 @@ NLP Service (FastAPI)
 ML Models (TF-IDF + Word2Vec)
 ```
 
+
 ---
 
 ## 🔥 Key Features
